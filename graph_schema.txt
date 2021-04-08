@@ -1,0 +1,3 @@
+dimensions n_nodes n_edges
+[list of n nodes with format <id, space separated coords, cost>]
+[list of n edges with format <idfrom, idto, cost, bidirectional[1/0]>]
